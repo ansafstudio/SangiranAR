@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="H_sapiens_Wajakensis_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_sapiens_Wajakensis_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_sapiens_Gilimanuk_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_sapiens_Gilimanuk_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_sapiens_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_sapiens_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_rudolfensis_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_rudolfensis_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_naenderthalensis_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_naenderthalensis_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_habilis_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_habilis_1" size="200.000000 355.555542" />
+    <ImageTarget name="H_erectus_2" size="200.000000 355.555542" />
+    <ImageTarget name="H_erectus_1" size="200.000000 355.555542" />
+    <ImageTarget name="Cro-Magnon_2" size="200.000000 355.555542" />
+    <ImageTarget name="Cro-Magnon_1" size="200.000000 355.555542" />
+    <ImageTarget name="A_robustus_2" size="200.000000 355.555542" />
+    <ImageTarget name="A_robustus_1" size="200.000000 355.555542" />
+    <ImageTarget name="A_bosei_2" size="200.000000 355.555542" />
+    <ImageTarget name="A_bosei_1" size="200.000000 355.555542" />
+    <ImageTarget name="A_africanus_2" size="200.000000 355.555542" />
+    <ImageTarget name="A_africanus_1" size="200.000000 355.555542" />
+    <ImageTarget name="A_afarencis_2" size="200.000000 355.555542" />
+    <ImageTarget name="A_afarencis_1" size="200.000000 355.555542" />
+  </Tracking>
+</QCARConfig>

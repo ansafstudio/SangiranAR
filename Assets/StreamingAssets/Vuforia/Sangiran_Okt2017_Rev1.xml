@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Gilimanuk_4" size="200.000000 355.555542" />
+    <ImageTarget name="Gilimanuk_3" size="200.000000 355.555542" />
+    <ImageTarget name="H_neander_4" size="200.000000 355.555542" />
+    <ImageTarget name="H_neander_3" size="200.000000 355.555542" />
+    <ImageTarget name="H_erecrus_4" size="200.000000 355.555542" />
+    <ImageTarget name="H_erecrus_3" size="200.000000 355.555542" />
+    <ImageTarget name="Cro-Magnon_4" size="200.000000 355.555542" />
+    <ImageTarget name="Cro-Magnon_3" size="200.000000 355.555542" />
+  </Tracking>
+</QCARConfig>
